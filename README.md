@@ -12,6 +12,7 @@ Features:
 - Oversized menu designed to work well on touchscreen tv's for teacher classrooms
 
 (While proofread, the following was generated using AI)
+
 Installation:
 You can run EdDraw from source using Python and PySide6, or build an installer using PyInstaller (exe coming soon).
 
